@@ -1,1 +1,1 @@
-# new project react redux typescript thunk axios
+# react redux typescript thunk axios

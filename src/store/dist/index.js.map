@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":";;AAAA,+BAAoD;AACpD,2CAA+B;AAElB,QAAA,KAAK,GAAG,mBAAW,CAAE,EAAE,EAAE,uBAAe,CAAC,wBAAK,CAAC,CAAC,CAAA","file":"index.js","sourcesContent":["import {applyMiddleware,  createStore } from 'redux'\nimport thunk from 'redux-thunk'\n\nexport const store = createStore( {}, applyMiddleware(thunk))"]}
